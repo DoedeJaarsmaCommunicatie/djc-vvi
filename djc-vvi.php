@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Vivino increase
  * Plugin URI:        https://doedejaarsma.nl/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This plugin adds the capabilities to mark the prices up for specific users via the WooCommerce Rest API.
  * Version:           1.0.0
  * Author:            Doede Jaarsma communicatie
  * Author URI:        https://doedejaarsma.nl
